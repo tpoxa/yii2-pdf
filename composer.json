@@ -12,6 +12,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "dev-master",
+		"yiisoft/yii2-composer": "dev-master",
 		"mpdf/mpdf": "dev-master",
 		"ensepar/html2pdf": "dev-master"
 	}
