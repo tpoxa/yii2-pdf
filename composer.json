@@ -1,5 +1,5 @@
 {
-	"name": "borales/yii2-pdf",
+	"name": "tpoxa/yii2-pdf",
 	"description": "Yii2-wrapper for PHP-PDF libraries (mPDF, HTML2PDF)",
 	"keywords": ["yii", "yii2", "pdf"],
 	"license": "New BSD License",
